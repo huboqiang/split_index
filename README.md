@@ -1,5 +1,14 @@
 Demultiplexes a fastq.
 
+Download and make for this project:
+
+```
+https://github.com/huboqiang/split_index
+cd split_index
+make clean
+make
+```
+
 Usage:
 
 ```
