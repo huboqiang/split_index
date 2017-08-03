@@ -3,7 +3,7 @@ Demultiplexes a fastq.
 Usage:
 
 ```
-Usage: index_split.py [options] <input.sam> [chrom] [proj_path] [Out_prefix]
+Usage: index_split.py [options] fastq1 fastq2 barcod1,barcode2,...,barcodeN
 
    Using -h or --help for more information
 
